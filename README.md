@@ -1,6 +1,9 @@
 # Sentiment Analysis project to predict the genre of movies based on their synopsis
 Group project for software engineering practice - Northumbria University.
 
+Reuploaded from my university github to my personal, this project was from year 2 of my degree and was the first introduction to machine learning. 
+The following instructions are taken from the original project. 
+
 ### Following the pep-8 python stlying standard
 [Read more here](https://www.python.org/dev/peps/pep-0008/)
 
